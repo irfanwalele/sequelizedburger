@@ -1,5 +1,3 @@
-# sequelizedburger
-
 # Burger 2: The Sequel
 
 ### Overview
